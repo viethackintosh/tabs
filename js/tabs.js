@@ -1,4 +1,4 @@
-import { buildTag } from '../helpers/buildTag.js';
+import { buildTag } from '../helpers/buildtag.js';
 import { isNodeDOM } from '../helpers/formgroup.js';
 
 const Tabs = function () {
