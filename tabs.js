@@ -1,4 +1,4 @@
-import { buildTag } from '../helpers/buildtag.js';
+import  buildTag from '../helpers/buildtag.js';
 import { isNodeDOM } from '../helpers/formgroup.js';
 
 const Tabs = function () {
@@ -108,4 +108,4 @@ const Tabs = function () {
      return tab;
 } 
 
-export { Tabs };
+export default Tabs;
